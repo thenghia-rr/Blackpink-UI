@@ -5,4 +5,3 @@ End: 20/2/2023
 
 Reference from: https://fullstack.edu.vn by SonDang
 
-Visit site: https://thenghia-rr.github.io//Blackpink-UI/

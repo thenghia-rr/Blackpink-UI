@@ -1,0 +1,15 @@
+{
+  "name": "blackpink-ui",
+  "version": "1.0.0",
+  "description": "Start: 20/1/2023\r End: 20/2/2023",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
